@@ -1,4 +1,4 @@
-# 📊 Supply Chain Analytics Portfolio
+# 📊 Strategic Supply Chain Engineering & Analytics Portfolio
 
 Welcome to my professional portfolio of advanced Excel models. This repository bridges theoretical supply chain management frameworks with data-driven operational execution. Each model is engineered using rigorous analytical logic to address common enterprise friction points across forecasting, inventory management, network logistics, and strategic sourcing.
 
@@ -9,7 +9,7 @@ Welcome to my professional portfolio of advanced Excel models. This repository b
 *   [🤝 Vendor Evaluation Model](#-vendor-evaluation-model)
 *   [📈 Demand Forecast Model](#-demand-forecast-model)
 *   [📦 Inventory Model](#-inventory-model)
-*   [🚛 Distribution Cost Model](#-distribution-cost-model)
+*   [🚛 Logistics Performance Model](#-logistics-performance-model)
 *   [🛠️ Technical Toolbelt](#%EF%B8%8F-technical-toolbelt)
 
 ---
@@ -68,21 +68,21 @@ Welcome to my professional portfolio of advanced Excel models. This repository b
 
 ---
 
-## 🚛 Distribution Cost Model
+## 🚛 Logistics Performance Model
 
-### 🛣️ Network Freight Allocation & Route Optimization
-*   **The Problem:** Minimizing multi-tiered freight expense allocations when routing products across diverse distribution nodes and retail touchpoints without breaching warehouse capacities.
-*   **Supply Chain Framework:** **Network Optimization and Cost Matrix Formulations** (Linear Programming applications engineered to find the absolute minimum total expenditure across geographical networks).
+### 📊 Multi-Dimensional Logistics KPI Dashboard & Carrier Analysis
+*   **The Problem:** Identifying operational inefficiencies, delivery delays, bottleneck regions, and carrier cost leaks across a high-volume multi-category supply chain network.
+*   **Supply Chain Framework:** **Logistics Performance Measurement & Control Framework** (utilizing centralized data architecture to segment operational execution by Tier-1 cross-functional KPIs).
 *   **Excel Mechanics:** 
-    *   Structured matrices using `SUMPRODUCT` arrays to instantly compute variable shipping tariffs based on routing combinations.
-    *   Engineered with **Excel Solver Add-in** constraints (Simplex LP optimizer engines) to automate lowest-cost distribution routes.
-    *   Dedicated **Model and Analysis** core tabs feeding separate, clean executive analytical report view layers.
-*   **Visual Documentation:** Utilizes an integrated **Charts Dashboard** showing aggregated route expenditures categorized by active Distribution Centers.
+    *   Engineered multi-dimensional pivot matrix structures parsing an extensive `RawData` ledger (dissecting timelines, regions, carriers, and product categories).
+    *   Advanced relational performance cross-tabs mapping metrics across **Category KPI Analysis**, **Carrier KPI Analysis** (tracking delivery speeds), and **Region KPI Analysis** (isolating quarter-over-quarter customer satisfaction trends).
+    *   Calculates critical freight parameters: `Deliveries_OnTime` rates, `Avg_Delivery_Days`, `Cost_Per_Shipment` averages, and `Inventory_Turnover` cycles.
+*   **Visual Documentation:** Driven by a centralized management executive **Dashboard** utilizing slicers, interactive timelines, and dynamic charting components.
 
 #### Repository Location:
-📁 [`./Distribution Cost Model.xlsx/`](./Distribution%20Cost%20Model.xlsx/)
-*   📥 **[Download Model File](./Distribution%20Cost%20Model.xlsx/Distribution%20Cost%20Model.xlsx)**
-*   🖼️ **[View Dashboard Preview](./Distribution%20Cost%20Model.xlsx/dashboard_preview.png)**
+📁 [`./Logistics Performance Model.xlsx/`](./Logistics%20Performance%20Model.xlsx/)
+*   📥 **[Download Model File](./Logistics%20Performance%20Model.xlsx/Logistics%20Performance%20Model.xlsx)**
+*   🖼️ **[View Dashboard Preview](./Logistics%20Performance%20Model.xlsx/dashboard_preview.png)**
 
 ---
 
