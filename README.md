@@ -1,4 +1,4 @@
-# 📊 Strategic Supply Chain Engineering & Analytics Portfolio
+# 📊 Strategic Supply Chain Analytics Portfolio
 
 Welcome to my professional portfolio of advanced Excel models. This repository bridges theoretical supply chain management frameworks with data-driven operational execution. Each model is engineered using rigorous analytical logic to address common enterprise friction points across forecasting, inventory management, network logistics, and strategic sourcing.
 
